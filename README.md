@@ -11,7 +11,7 @@ A simple command-line card game where you try to beat the house by drawing three
 - The game keeps track of player and house wins.
 - If you play long enough to reach 21 wins or losses the game ends.
 - You can change the number of wins or losses required to end the game by editing ```match_win_limit``` on line 12 of
-  ```play.py```.
+  ```play.py```
 
 Cards are displayed using text, numbers, and Unicode playing-card symbols.
 
